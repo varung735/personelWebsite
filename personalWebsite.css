@@ -1,0 +1,78 @@
+h1{
+	font-size: 5rem !important;
+	border-bottom: 1px solid;
+}
+
+img {
+  border-radius: 50%;
+}
+
+h3{
+	padding-top: 5%;
+	padding-left: 6%;
+}
+
+h2{
+	margin-bottom: 0px !important;
+}
+
+.card-header{
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+.p-lead{
+	padding-top: 5px;
+	font-weight: 500;
+	font-size: 1.5rem;
+}
+
+.p-follow{
+	font-weight: 300;
+}
+
+.bg-color{
+	background-color: #30273a;
+}
+
+.img-attr{
+	margin: auto;
+	padding: auto;
+	width: 100% !important;
+	height: 97vh;
+}
+
+.div-attr{
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+}
+
+.jumbotron{
+	text-align: center;
+	background-image: url("C:/Users/Varun/Pictures/xps-6uneKLGrJPs-unsplash (3).jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 100vh; 
+}
+
+.heading{
+	background: rgba(192, 192, 192, 0.4);
+	width: 50%;
+	margin: 35vh auto;
+	padding: 5px auto;
+	text-align: center;
+}
+
+.parallax{
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.intro-div{
+	width: 70%;
+}
+
