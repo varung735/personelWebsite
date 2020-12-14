@@ -5,6 +5,7 @@ h1{
 
 img {
   border-radius: 50%;
+  vertical-align: middle;
 }
 
 h3{
@@ -14,6 +15,27 @@ h3{
 
 h2{
 	margin-bottom: 0px !important;
+}
+
+.profile-div{
+	padding-top: 5%;
+}
+
+.edu-div{
+	background-color: #EEE2DC;
+}
+
+.div-margin{
+	padding-bottom: 1.5%;
+}
+
+.card{
+	height: 35vh;
+}
+
+.p-margin{
+	margin-bottom: 0px !important;
+	font-weight: bold;
 }
 
 .card-header{
