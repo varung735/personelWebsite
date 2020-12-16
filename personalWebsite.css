@@ -17,6 +17,35 @@ h2{
 	margin-bottom: 0px !important;
 }
 
+.edu-heading{
+	font-family: 'Neucha', cursive;
+	text-align: center;
+	font-size: 3.7rem;
+	padding-bottom: 1%; 
+	padding-top: 1%;
+}
+
+.edu-quote{
+	text-align: center; 
+	font-family: 'Permanent Marker', cursive;
+	padding-bottom: 1%;
+	padding-top: 0.3%;
+	border-bottom: 1px solid;
+}
+
+.profile-quote{
+	font-family: 'Permanent Marker', cursive; 
+	border-bottom: solid 1px;
+	padding-bottom: 0.8%; 
+	padding-top: 1.5%; 
+}
+
+.profile-heading{
+	text-align: center;
+	font-size: 3.7rem;
+	padding-bottom: 0.5%;
+}
+
 .profile-div{
 	padding-top: 5%;
 }
